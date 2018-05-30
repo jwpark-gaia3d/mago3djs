@@ -49,7 +49,7 @@
     "jshint-stylish": "latest",
     "karma": "latest",
     "karma-browserify": "latest",
-    "karma-chai": "^0.1.0",
+    "karma-chai": "latest",
     "karma-chrome-launcher": "latest",
     "karma-firefox-launcher": "latest",
     "karma-html-reporter": "latest",
